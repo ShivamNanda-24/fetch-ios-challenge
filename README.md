@@ -3,5 +3,5 @@ This app shows a list of desserts and for each item in the list, there exisits a
 
 To run it:
 Clone the repo
-cd (repo name)
+cd fetch-ios-challenge
 run the .xcodeproj file
